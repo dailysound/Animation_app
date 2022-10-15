@@ -1,3 +1,3 @@
-# Animation App 2022
+# Movie App 2022
 
 React JS Fundamentals Course 2022
